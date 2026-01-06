@@ -1,0 +1,170 @@
+  {
+    id: 1,
+    textnamn: "The Environment",
+    textinnehåll: "Climate change is one of the most pressing issues facing our planet today. Rising temperatures, melting ice caps, and extreme weather events are clear indicators that immediate action is required. Governments worldwide are implementing policies to reduce carbon emissions and promote renewable energy sources. Individual efforts, such as recycling and reducing waste, also contribute significantly to environmental preservation.",
+    textord: [
+      { engelska: "climate", översättning: "klimat", uttal: "/ˈklaɪ.mət/" },
+      { engelska: "emissions", översättning: "utsläpp", uttal: "/ɪˈmɪʃ.ənz/" },
+      { engelska: "renewable", översättning: "förnybar", uttal: "/rɪˈnuː.ə.bəl/" },
+      { engelska: "preservation", översättning: "bevarande", uttal: "/ˌprez.əˈveɪ.ʃən/" },
+      { engelska: "pressing", översättning: "brådskande", uttal: "/ˈpres.ɪŋ/" },
+      { engelska: "temperatures", översättning: "temperaturer", uttal: "/ˈtem.prə.tʃərz/" },
+      { engelska: "extreme", översättning: "extrem", uttal: "/ɪkˈstriːm/" },
+      { engelska: "implementing", översättning: "implementerar", uttal: "/ˈɪm.plɪ.ment.ɪŋ/" },
+      { engelska: "recycling", översättning: "återvinning", uttal: "/ˌriːˈsaɪ.klɪŋ/" },
+      { engelska: "indicators", översättning: "indikatorer", uttal: "/ˈɪn.dɪ.keɪ.tərz/" }
+    ]
+  },
+  {
+    id: 2,
+    textnamn: "Technology Advancements",
+    textinnehåll: "Artificial intelligence is revolutionizing various industries, from healthcare to finance. Machine learning algorithms can analyze vast amounts of data and identify patterns that humans might overlook. While these technologies offer tremendous benefits, they also raise ethical concerns about privacy and job displacement. It is crucial to establish regulations that ensure responsible development and deployment of AI systems.",
+    textord: [
+      { engelska: "artificial", översättning: "konstgjord", uttal: "/ˌɑː.tɪˈfɪʃ.əl/" },
+      { engelska: "intelligence", översättning: "intelligens", uttal: "/ɪnˈtel.ɪ.dʒəns/" },
+      { engelska: "revolutionizing", översättning: "revolutionerar", uttal: "/ˌrev.əˈluː.ʃən.aɪ.zɪŋ/" },
+      { engelska: "algorithms", översättning: "algoritmer", uttal: "/ˈæl.ɡə.rɪ.ðəmz/" },
+      { engelska: "analyze", översättning: "analysera", uttal: "/ˈæn.əl.aɪz/" },
+      { engelska: "tremendous", översättning: "enorm", uttal: "/trəˈmen.dəs/" },
+      { engelska: "ethical", översättning: "etisk", uttal: "/ˈeθ.ɪ.kəl/" },
+      { engelska: "privacy", översättning: "integritet", uttal: "/ˈprɪ.və.si/" },
+      { engelska: "displacement", översättning: "förskjutning", uttal: "/dɪˈspleɪs.mənt/" },
+      { engelska: "regulations", översättning: "regler", uttal: "/ˌreɡ.jəˈleɪ.ʃənz/" }
+    ]
+  },
+  {
+    id: 3,
+    textnamn: "Healthy Lifestyle",
+    textinnehåll: "Maintaining a balanced diet and regular exercise routine is essential for overall wellbeing. Nutritionists emphasize the importance of consuming a variety of fruits, vegetables, and whole grains. Physical activity not only strengthens muscles and bones but also improves mental health by reducing stress levels. Adequate sleep and hydration are equally important components of a healthy lifestyle.",
+    textord: [
+      { engelska: "balanced", översättning: "balanserad", uttal: "/ˈbæl.ənst/" },
+      { engelska: "essential", översättning: "nödvändig", uttal: "/ɪˈsen.ʃəl/" },
+      { engelska: "wellbeing", översättning: "välbefinnande", uttal: "/ˌwelˈbiː.ɪŋ/" },
+      { engelska: "nutritionists", översättning: "nutritionister", uttal: "/njuˈtrɪʃ.ən.ɪsts/" },
+      { engelska: "consuming", översättning: "konsumera", uttal: "/kənˈsjuː.mɪŋ/" },
+      { engelska: "hydration", översättning: "hydrering", uttal: "/haɪˈdreɪ.ʃən/" },
+      { engelska: "adequate", översättning: "tillräcklig", uttal: "/ˈæd.ə.kwət/" },
+      { engelska: "components", översättning: "komponenter", uttal: "/kəmˈpəʊ.nənts/" },
+      { engelska: "strengthens", översättning: "stärker", uttal: "/ˈstreŋ.θənz/" },
+      { engelska: "variety", översättning: "variation", uttal: "/vəˈraɪ.ə.ti/" }
+    ]
+  },
+  {
+    id: 4,
+    textnamn: "Global Economy",
+    textinnehåll: "International trade plays a pivotal role in the global economy, facilitating the exchange of goods and services across borders. Economic fluctuations in one country can have ripple effects worldwide. Central banks implement monetary policies to control inflation and stabilize currencies. While globalization has created opportunities for growth, it has also led to increased competition and economic disparities between nations.",
+    textord: [
+      { engelska: "pivotal", översättning: "central", uttal: "/ˈpɪv.ə.təl/" },
+      { engelska: "facilitating", översättning: "underlättar", uttal: "/fəˈsɪl.ɪ.teɪ.tɪŋ/" },
+      { engelska: "fluctuations", översättning: "fluktuationer", uttal: "/ˌflʌk.tʃuˈeɪ.ʃənz/" },
+      { engelska: "ripple", översättning: "ringverkan", uttal: "/ˈrɪp.əl/" },
+      { engelska: "monetary", översättning: "penningpolitisk", uttal: "/ˈmʌn.ɪ.tri/" },
+      { engelska: "inflation", översättning: "inflation", uttal: "/ɪnˈfleɪ.ʃən/" },
+      { engelska: "stabilize", översättning: "stabilisera", uttal: "/ˈsteɪ.bəl.aɪz/" },
+      { engelska: "globalization", översättning: "globalisering", uttal: "/ˌɡləʊ.bəl.aɪˈzeɪ.ʃən/" },
+      { engelska: "competition", översättning: "konkurrens", uttal: "/ˌkɒm.pəˈtɪʃ.ən/" },
+      { engelska: "disparities", översättning: "skillnader", uttal: "/dɪˈspær.ɪ.tiz/" }
+    ]
+  },
+  {
+    id: 5,
+    textnamn: "Space Exploration",
+    textinnehåll: "Human curiosity about the universe has driven space exploration for decades. Recent missions to Mars aim to discover evidence of past life and assess the planet's habitability. Satellites orbiting Earth provide crucial data for weather forecasting, communication, and navigation. As technology advances, the possibility of commercial space travel and colonization of other planets becomes increasingly feasible.",
+    textord: [
+      { engelska: "curiosity", översättning: "nyfikenhet", uttal: "/ˌkjʊə.riˈɒs.ə.ti/" },
+      { engelska: "exploration", översättning: "utforskning", uttal: "/ˌek.spləˈreɪ.ʃən/" },
+      { engelska: "missions", översättning: "uppdrag", uttal: "/ˈmɪʃ.ənz/" },
+      { engelska: "habitability", översättning: "beboelighet", uttal: "/ˌhæb.ɪ.təˈbɪl.ə.ti/" },
+      { engelska: "orbiting", översättning: "kretsar", uttal: "/ˈɔː.bɪ.tɪŋ/" },
+      { engelska: "forecasting", översättning: "prognostisering", uttal: "/ˈfɔː.kɑː.stɪŋ/" },
+      { engelska: "navigation", översättning: "navigering", uttal: "/ˌnæv.ɪˈɡeɪ.ʃən/" },
+      { engelska: "commercial", översättning: "kommersiell", uttal: "/kəˈmɜː.ʃəl/" },
+      { engelska: "colonization", översättning: "kolonisering", uttal: "/ˌkɒl.ə.naɪˈzeɪ.ʃən/" },
+      { engelska: "feasible", översättning: "genomförbar", uttal: "/ˈfiː.zə.bəl/" }
+    ]
+  },
+  {
+    id: 6,
+    textnamn: "Education Systems",
+    textinnehåll: "Modern education systems are evolving to meet the demands of the 21st century. Digital literacy has become as important as traditional academic skills. Collaborative learning environments encourage students to develop critical thinking and problem-solving abilities. While standardized testing provides measurable outcomes, many educators advocate for more holistic assessment methods that consider individual learning styles and creativity.",
+    textord: [
+      { engelska: "evolving", översättning: "utvecklas", uttal: "/ɪˈvɒlv.ɪŋ/" },
+      { engelska: "literacy", översättning: "läskunnighet", uttal: "/ˈlɪt.ər.ə.si/" },
+      { engelska: "collaborative", översättning: "samarbetsinriktad", uttal: "/kəˈlæb.ər.ə.tɪv/" },
+      { engelska: "critical", översättning: "kritisk", uttal: "/ˈkrɪt.ɪ.kəl/" },
+      { engelska: "standardized", översättning: "standardiserad", uttal: "/ˈstæn.də.daɪzd/" },
+      { engelska: "measurable", översättning: "mätbar", uttal: "/ˈmeʒ.ər.ə.bəl/" },
+      { engelska: "advocate", översättning: "förespråka", uttal: "/ˈæd.və.keɪt/" },
+      { engelska: "holistic", översättning: "helhetssyn", uttal: "/həʊˈlɪs.tɪk/" },
+      { engelska: "assessment", översättning: "bedömning", uttal: "/əˈses.mənt/" },
+      { engelska: "creativity", översättning: "kreativitet", uttal: "/ˌkriː.eɪˈtɪv.ə.ti/" }
+    ]
+  },
+  {
+    id: 7,
+    textnamn: "Cultural Diversity",
+    textinnehåll: "Cultural diversity enriches societies by introducing different perspectives, traditions, and customs. Immigrants contribute to the cultural tapestry of their new countries while preserving elements of their heritage. Language barriers can present challenges, but they also offer opportunities for linguistic exchange and understanding. Appreciating cultural differences fosters tolerance and reduces prejudice in multicultural communities.",
+    textord: [
+      { engelska: "diversity", översättning: "mångfald", uttal: "/daɪˈvɜː.sə.ti/" },
+      { engelska: "enriches", översättning: "berikar", uttal: "/ɪnˈrɪtʃ.ɪz/" },
+      { engelska: "perspectives", översättning: "perspektiv", uttal: "/pəˈspek.tɪvz/" },
+      { engelska: "tapestry", översättning: "vävnad", uttal: "/ˈtæp.ɪ.stri/" },
+      { engelska: "heritage", översättning: "arv", uttal: "/ˈher.ɪ.tɪdʒ/" },
+      { engelska: "barriers", översättning: "barriärer", uttal: "/ˈbær.i.əz/" },
+      { engelska: "linguistic", översättning: "språklig", uttal: "/lɪŋˈɡwɪs.tɪk/" },
+      { engelska: "appreciating", översättning: "uppskatta", uttal: "/əˈpriː.ʃi.eɪ.tɪŋ/" },
+      { engelska: "fosters", översättning: "främjar", uttal: "/ˈfɒs.təz/" },
+      { engelska: "prejudice", översättning: "fördomar", uttal: "/ˈpredʒ.ə.dɪs/" }
+    ]
+  },
+  {
+    id: 8,
+    textnamn: "Renewable Energy",
+    textinnehåll: "Transitioning to renewable energy sources is crucial for sustainable development. Solar panels convert sunlight into electricity without emitting greenhouse gases. Wind turbines harness kinetic energy from air currents to generate power. While initial installation costs can be high, long-term benefits include reduced environmental impact and energy independence. Technological innovations continue to improve the efficiency and affordability of clean energy solutions.",
+    textord: [
+      { engelska: "transitioning", översättning: "övergång", uttal: "/trænˈzɪʃ.ən.ɪŋ/" },
+      { engelska: "sustainable", översättning: "hållbar", uttal: "/səˈsteɪ.nə.bəl/" },
+      { engelska: "convert", översättning: "omvandla", uttal: "/kənˈvɜːt/" },
+      { engelska: "emitting", översättning: "avger", uttal: "/iˈmɪt.ɪŋ/" },
+      { engelska: "turbines", översättning: "turbiner", uttal: "/ˈtɜː.baɪnz/" },
+      { engelska: "harness", översättning: "utnyttja", uttal: "/ˈhɑː.nɪs/" },
+      { engelska: "kinetic", översättning: "kinetisk", uttal: "/kɪˈnet.ɪk/" },
+      { engelska: "installation", översättning: "installation", uttal: "/ˌɪn.stəˈleɪ.ʃən/" },
+      { engelska: "independence", översättning: "oberoende", uttal: "/ˌɪn.dɪˈpen.dəns/" },
+      { engelska: "affordability", översättning: "överkomlighet", uttal: "/əˌfɔː.dəˈbɪl.ə.ti/" }
+    ]
+  },
+  {
+    id: 9,
+    textnamn: "Mental Health Awareness",
+    textinnehåll: "Increasing awareness about mental health has reduced stigma and encouraged more people to seek help. Conditions like anxiety and depression are common but treatable with proper intervention. Mindfulness practices and cognitive behavioral therapy have proven effective in managing symptoms. Workplace initiatives that promote work-life balance contribute to better psychological wellbeing among employees.",
+    textord: [
+      { engelska: "awareness", översättning: "medvetenhet", uttal: "/əˈweə.nəs/" },
+      { engelska: "stigma", översättning: "stigma", uttal: "/ˈstɪɡ.mə/" },
+      { engelska: "anxiety", översättning: "ångest", uttal: "/æŋˈzaɪ.ə.ti/" },
+      { engelska: "depression", översättning: "depression", uttal: "/dɪˈpreʃ.ən/" },
+      { engelska: "intervention", översättning: "insats", uttal: "/ˌɪn.təˈven.ʃən/" },
+      { engelska: "mindfulness", översättning: "medveten närvaro", uttal: "/ˈmaɪnd.fəl.nəs/" },
+      { engelska: "cognitive", översättning: "kognitiv", uttal: "/ˈkɒɡ.nə.tɪv/" },
+      { engelska: "therapy", översättning: "terapi", uttal: "/ˈθer.ə.pi/" },
+      { engelska: "initiatives", översättning: "initiativ", uttal: "/ɪˈnɪʃ.ə.tɪvz/" },
+      { engelska: "psychological", översättning: "psykologisk", uttal: "/ˌsaɪ.kəˈlɒdʒ.ɪ.kəl/" }
+    ]
+  },
+  {
+    id: 10,
+    textnamn: "Entrepreneurship",
+    textinnehåll: "Entrepreneurship drives innovation and economic growth by introducing new products and services to the market. Successful entrepreneurs identify unmet needs and develop solutions that create value. Securing funding, whether through venture capital or loans, is a critical step in launching a startup. While failure rates are high, perseverance and adaptability increase the likelihood of long-term success in competitive industries.",
+    textord: [
+      { engelska: "entrepreneurship", översättning: "entreprenörskap", uttal: "/ˌɒn.trə.prəˈnɜː.ʃɪp/" },
+      { engelska: "innovation", översättning: "innovation", uttal: "/ˌɪn.əˈveɪ.ʃən/" },
+      { engelska: "unmet", översättning: "otillfredsställda", uttal: "/ʌnˈmet/" },
+      { engelska: "securing", översättning: "säkerställa", uttal: "/sɪˈkjʊə.rɪŋ/" },
+      { engelska: "venture", översättning: "riskföretag", uttal: "/ˈven.tʃər/" },
+      { engelska: "launching", översättning: "lansera", uttal: "/ˈlɔːn.tʃɪŋ/" },
+      { engelska: "startup", översättning: "startup-företag", uttal: "/ˈstɑːt.ʌp/" },
+      { engelska: "perseverance", översättning: "uthållighet", uttal: "/ˌpɜː.sɪˈvɪə.rəns/" },
+      { engelska: "adaptability", översättning: "anpassningsförmåga", uttal: "/əˌdæp.təˈbɪl.ə.ti/" },
+      { engelska: "likelihood", översättning: "sannolikhet", uttal: "/ˈlaɪ.kli.hʊd/" }
+    ]
+  }
